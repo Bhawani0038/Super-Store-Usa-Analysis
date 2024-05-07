@@ -13,4 +13,5 @@ Documentation: Detailed documentation outlining the project objectives, methodol
 Demo: Screenshots or GIFs showcasing the functionality and features of the dashboard.
 📈 Project Outcome:
 
-The Superstore Data Dashboard enables users to explore sales performance, customer behavior, and product trends through interactive visualizations. It serves as a valuable tool for decision-makers to identify opportunities, optimize operations, and drive business growth.![Screenshot 2024-05-07 232022](https://github.com/Bhawani0038/Super-Store-Usa-Analysis/assets/103100587/d92d4c2f-cd55-43e8-9181-c49cab8a9b8d)
+The Superstore Data Dashboard enables users to explore sales performance, customer behavior, and product trends through interactive visualizations. It serves as a valuable tool for decision-makers to identify opportunities, optimize operations, and drive business growth.
+![Screenshot 2024-05-07 233035](https://github.com/Bhawani0038/Super-Store-Usa-Analysis/assets/103100587/a97eeb61-60b9-4245-adf2-f28470145b66)
